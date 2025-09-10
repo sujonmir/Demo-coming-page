@@ -1,6 +1,6 @@
 // --- Configuration ---
 // Set the date for the launch (Year, Month (0-11), Day, Hour, Minute, Second)
-const launchDate = new Date(2024, 11, 31, 23, 59, 59).getTime();
+const launchDate = new Date(2025, 11, 31, 23, 59, 59).getTime();
 
 // --- Countdown Logic ---
 const daysEl = document.getElementById("days");
